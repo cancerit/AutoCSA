@@ -1,0 +1,9 @@
+Amplimer,DNA,Direction,Start,Stop,Zygosity,Type,Wildtype Seq,Variant Seq,Annotation
+BRAFexon11,NCI-H1395,Sense,284,284,Homozygous,Substitution,C,G,c.1406G>C : p.G469A (reverse complimented to coding direction)
+BRAFexon11,NCI-H1395,Antisense,284,284,Homozygous,Substitution,C,G,c.1406G>C : p.G469A (reverse complimented to coding direction)
+INSRRexon3,NCI-H2009,Sense,231,231,Heterozygous,Substitution,C,G,c.832G>C : p.E278Q (reverse complimented to coding direction)
+INSRRexon3,NCI-H2009,Antisense,231,231,Heterozygous,Substitution,C,G,c.832G>C : p.E278Q (reverse complimented to coding direction)
+STK11exon1,NCI-H1395,Sense,254,254,Homozygous,Deletion,G,-,c.169delG : p.E57fs*7
+STK11exon1,NCI-H1395,Antisense,250,250,Homozygous,Deletion,G,-,c.165delG : p.L55fs*9
+TNNI3Kexon23,PD1379a,Sense,279,279,Heterozygous,Deletion,G,-,c.2248delG : p.V750fs*1
+TNNI3Kexon23,PD1379a,Antisense,278,278,Heterozygous,Deletion,G,-,c.2247delG : p.L749fs*2
