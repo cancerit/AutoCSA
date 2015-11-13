@@ -1,0 +1,9 @@
+Amplimer,DNA,Direction,Start,Stop,Zygosity,Type,Wildtype Seq,Variant Seq,Annotation
+BRAFexon11,NCI-H1395,Sense,284,284,Homozygous,Substitution,C,G,No CDS mapping provided
+BRAFexon11,NCI-H1395,Antisense,284,284,Homozygous,Substitution,C,G,No CDS mapping provided
+INSRRexon3,NCI-H2009,Sense,231,231,Heterozygous,Substitution,C,G,No CDS mapping provided
+INSRRexon3,NCI-H2009,Antisense,231,231,Heterozygous,Substitution,C,G,No CDS mapping provided
+STK11exon1,NCI-H1395,Sense,254,254,Homozygous,Deletion,G,-,No CDS mapping provided
+STK11exon1,NCI-H1395,Antisense,250,250,Homozygous,Deletion,G,-,No CDS mapping provided
+TNNI3Kexon23,PD1379a,Sense,279,279,Heterozygous,Deletion,G,-,No CDS mapping provided
+TNNI3Kexon23,PD1379a,Antisense,278,278,Heterozygous,Deletion,G,-,No CDS mapping provided

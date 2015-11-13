@@ -1,0 +1,52 @@
+table.variantView {
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  border-collapse: collapse;
+}
+
+
+table.data {
+  border-top: 1px solid #999;
+  border-collapse: collapse;
+}
+th.data {
+  padding: 4px;
+  border-bottom: 1px solid #999;
+}
+
+td.data {
+  padding: 4px;
+  border-bottom: 1px solid #999;
+  background: #E7EDF3;
+}
+
+td.bad {
+  padding: 4px;
+  border-bottom: 1px solid #999;
+  background: #FFCCCC;
+}
+
+td.best {
+  padding: 4px;
+  border-bottom: 1px solid #999;
+  background: #CCFFCC;
+}
+
+th {
+  color: #000000;
+  background: #D0E2F3;
+}
+
+h3 {
+  color: #FFFFFF;
+  background: #074987;
+  padding: 4px;
+  width: 70%;
+  border: 2px solid #999;
+}
+
+td.div {
+  height: 4px;
+  background: #EFEFEF;
+  border-bottom: 1px solid #999;
+}
