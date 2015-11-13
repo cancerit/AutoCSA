@@ -1,10 +1,13 @@
 # AutoCSA
 Java based trace file mutation detection capable of detecting both homozygous and heterozygous base substitutions, as well as small insertions and deletions, to a high sensitivity in capillary sequence traces.
 
+##Usage
+For installation and run instructions see the [wiki](https://github.com/cancerit/AutoCSA/wiki)
+
 ##Publication
-Bioinformatics. 2007 Jul 1;23(13):1689-91. Epub 2007 May 7.
+[Bioinformatics. 2007 Jul 1;23(13):1689-91. Epub 2007 May 7.
 AutoCSA, an algorithm for high throughput DNA sequence variant detection in cancer genomes.
-Dicks E, Et al.
+Dicks E, Et al.](http://www.ncbi.nlm.nih.gov/pubmed/17485433)
 
 ##API
 [click here](http://cancerit.github.io/AutoCSA/docs/api/) for the AutoCSA API
