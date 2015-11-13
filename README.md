@@ -1,5 +1,5 @@
 # AutoCSA
-Java based trace file mutation detection capable of detecting both homozygous and heterozygous base substitutions, as well as small insertions and deletions, to a high sensitivity.
+Java based trace file mutation detection capable of detecting both homozygous and heterozygous base substitutions, as well as small insertions and deletions, to a high sensitivity in capillary sequence traces.
 
 ##Publication
 Bioinformatics. 2007 Jul 1;23(13):1689-91. Epub 2007 May 7.
